@@ -1,0 +1,94 @@
+Challenge 1: Write a poem
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Challenge: Write a poem</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+    <h1>7 RINGS </h1>
+    <h2>
+    <p>Yeah, breakfast at Tiffany's and bottles of bubbles <br>
+Girls with tattoos who like getting in trouble <br>
+Lashes and diamonds, ATM machines<br>
+Buy myself all of my favorite things (yeah)</p></h2>
+    
+    </body>
+</html>
+
+Challenge 2: Mark up the text
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Challenge: You can learn text tags</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <p>
+        Nobody’s born smart. We all start at 0. Can’t talk, can’t walk, certainly can’t do algebra.<br>
+        Adding, reading, writing, riding a bike. <strong>Nobody’s good at anything at first.</strong> <br>
+        There was a time when Einstein couldn’t count to 10.<br>
+        And Shakespeare had to learn his ABCs just like the rest of us.<br>
+        Thankfully, we are born to learn.<br>
+        <em>Slowly. Surely. You stumble, slip, crawl, fall and fail and fall.</em> <br>
+        Frustrating. Confusing. Trying. Struggling.<br>
+        Until one day, you walk.<br>
+        One foot in front of the other. One idea on top of the next.<br>
+        Each wrong answer making your brain a little bit stronger.<br>
+        <strong>Failing is just another word for growing. And you keep going.</strong><br>
+        This. is. learning.<br>
+        It’s not that you don’t get it. <br>
+        You just don’t get it, yet.
+        Because the most beautiful, complex concepts in the whole universe<br>
+        are built on basic ideas that anyone, anywhere can understand.<br>
+        Whoever you are, wherever you are.<br>
+        </p>
+        <p>
+        You only have to know one thing:<br>
+        <em>You can learn anything.</em>
+        </p>
+    </body>
+</html>
+
+Challenge 3: Wishlist
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Challenge: Wishlist</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1> Wishes and activities</h1>
+        
+        <ol>
+            <li> Make a lot of money</li>
+            <li> Travel </li>
+            <li> Learn other languages </li>
+            <li> Buy clothes, accessorizes </li>
+        </ol>
+        
+        
+    </body>
+</html>
+
+Challenge 4:Images
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Challenge: A picture-perfect trip</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>The perfect trip</h1>
+        
+        <p>I would see scenes like in New York</p>
+        <img src="https://www.kasandbox.org/programming-images/space/background.png" alt="picture of New York city" width="500" height="400">
+        
+        <p>And animals like cat</p>
+        <img src="https://www.kasandbox.org/programming-images/cute/EnemyBug.png" alt="picture of cute cats" width="300">
+        
+        <p>And eat food like pasta</p>
+        <img src="https://www.kasandbox.org/programming-images/space/star.png" alt="picture of tasty pasta">
+        
+    </body>
+</html>

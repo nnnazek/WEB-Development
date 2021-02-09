@@ -1,0 +1,169 @@
+Challenge 1: Colorful creature
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Colorful creature</title>
+        <style>
+            body {
+                background-color: rgb(245, 236, 106);
+            }
+            p {
+                color: rgb(97, 31, 97);
+            }
+            h1 {
+                color: rgb(74, 54, 6);
+            }
+            
+            
+        </style>
+        
+        
+    </head>
+    <body>
+        
+        <h1>CHEETAH</h1>
+        
+        <p>The <em>cheetah</em> is awesome because <strong>it is the large cat, fastest animal.</strong>.</p>
+        <p>The cheetah (Acinonyx jubatus) is a large cat native to Africa and central Iran. It is the fastest land animal, capable of running at 80 to 128 km/h (50 to 80 mph), and as such has several adaptations for speed, including a light build, long thin legs and a long tail. Cheetahs typically reach 67–94 cm (26–37 in) at the shoulder, and the head-and-body length is between 1.1 and 1.5 m (3.6 and 4.9 ft). Adults typically weigh between 20 and 65 kg (44 and 143 lb). Its head is small, rounded, and has a short snout and black tear-like facial streaks. The coat is typically tawny to creamy white or pale buff and is mostly covered with evenly spaced, solid black spots. Four subspecies are recognised.</p>
+        <img src="https://www.kasandbox.org/programming-images/animals/cheetah.png" alt="very beautiful animal cheetah">
+    </body>
+</html>
+
+Challenge 2: Seasonal ids
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Seasonal ids</title>
+        <style>
+            #summer {
+                color: rgb(245, 234, 32);
+            }
+            #winter {
+                color: blue;
+            }
+            
+            
+        </style>
+    </head>
+    <body>
+        
+        <h1>Olaf's favorite seasons</h1>
+        
+        <h2 id="summer">Summer</h2>
+        <p>He's a happy snowman, doing what frozen things do in summer.</p>
+        
+        <h2 id="winter">Winter</h2>
+        <p>He likes to stay in and cuddle</p>
+    </body>
+</html>
+
+Challenge 3: Apples and bananas
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Challenge: Apples and bananas classes</title>
+        <style>
+            .apples {
+                color: red;
+            }
+            .bananas {
+                color: yellow;
+            }
+        
+        </style>
+    </head>
+    <body>
+
+    <h1><strong class="apples">Apples</strong> and <strong class="bananas">Bananas</strong></h1>
+    
+    <p>
+    I like to eat eat eat 
+        <strong class="apples">apples</strong> and
+        <strong class="bananas">bananas</strong>.<br>
+    I like to eat eat eat 
+        <strong class="apples">apples</strong> and
+        <strong class="bananas">bananas</strong>.<br>
+    I like to ate ate ate 
+        <strong class="apples">ay-ples</strong> and
+        <strong class="bananas">bay-nay-nays</strong>.<br>
+    I like to ate ate ate 
+        <strong class="apples">ay-ples</strong> and
+        <strong class="bananas">bay-nay-nays</strong>.<br>
+    I like to eet eet eet
+        <strong class="apples">ee-ples</strong> and
+        <strong class="bananas">bee-nee-nees</strong>.<br>
+    I like to eet eet eet
+        <strong class="apples">ee-ples</strong> and
+        <strong class="bananas">bee-nee-nees</strong>.<br>
+    I like to ite ite ite
+        <strong class="apples">i-ples</strong> and
+        <strong class="bananas">by-by-nys</strong>.<br>
+    I like to ite ite ite
+        <strong class="apples">i-ples</strong> and
+        <strong class="bananas">by-by-nys</strong>.<br>
+    I like to ote ote ote
+        <strong class="apples">oh-ples</strong> and
+        <strong class="bananas">bo-no-nos</strong>.<br>
+    I like to ote ote ote
+        <strong class="apples">oh-ples</strong> and
+        <strong class="bananas">bo-no-nos</strong>.<br>
+    I like to ute ute ute
+        <strong class="apples">uupples</strong> and
+        <strong class="bananas">bununus</strong>.<br>
+    I like to ute ute ute
+        <strong class="apples">uupples</strong> and
+        <strong class="bananas">bununus</strong>.<br>
+    I like to eat eat eat 
+        <strong class="apples">apples</strong> and
+        <strong class="bananas">bananas</strong>.<br>
+</p>
+
+    </body>
+</html>
+
+Project
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+    </head>
+    <body>
+    <style>
+        h1 {
+            background-color: rgb(207, 166, 207);
+        }
+        .information {
+            color: rgb(112, 18, 8);
+        }
+        #climate {
+            color: red;
+        }
+    </style>
+    
+        <h1>Travel to New York</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/New_york_times_square-terabass.jpg/275px-New_york_times_square-terabass.jpg" alt="The picture of New York city" width="500">
+        <ol>
+            <li>Information</li>
+            <li>Geography</li>
+            <li>Climate</li>
+        </ol>
+        
+        
+        <p class="information">
+        <strong>New York City (NYC)</strong>, often called simply New York, is the most populous city in the United States. With an estimated 2019 population of <em>8,336,817</em> distributed over about <em>302.6</em> square miles (784 km2), New York City is also the most densely populated major city in the United States. Located at the southern tip of the State of New York, the city is the center of the New York metropolitan area, the largest metropolitan area in the world by urban landmass. With almost 20 million people in its metropolitan statistical area and approximately 23 million in its combined statistical area, it is one of the world's most populous megacities. New York City has been described as the cultural, financial, and media capital of the world, significantly influencing commerce, entertainment, research, technology, education, politics, tourism, art, fashion, and sports. Home to the headquarters of the United Nations, New York is an important center for international diplomacy.
+        </p>
+        <h2>Geography</h2>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/5_Boroughs_Labels_New_York_City_Map.svg/330px-5_Boroughs_Labels_New_York_City_Map.svg.png" alt="territory of New York">
+        <p class="information">During the Wisconsin glaciation, 75,000 to 11,000 years ago, the New York City area was situated at the edge of a large ice sheet over 2,000 feet (610 m) in depth. The erosive forward movement of the ice (and its subsequent retreat) contributed to the separation of what is now Long Island and Staten Island. That action also left bedrock at a relatively shallow depth, providing a solid foundation for most of Manhattan's skyscrapers.
+
+New York City is situated in the northeastern United States, in southeastern New York State, approximately halfway between Washington, D.C. and Boston. The location at the mouth of the Hudson River, which feeds into a naturally sheltered harbor and then into the Atlantic Ocean, has helped the city grow in significance as a trading port. Most of New York City is built on the three islands of Long Island, Manhattan, and Staten Island.</p>
+        <h3>Climate</h3>
+        <p id="climate">Winters are chilly and damp, and prevailing wind patterns that blow sea breezes offshore temper the moderating effects of the Atlantic Ocean; yet the Atlantic and the partial shielding from colder air by the Appalachian Mountains keep the city warmer in the winter than inland North American cities at similar or lesser latitudes such as Pittsburgh, Cincinnati, and Indianapolis. </p>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Central_park_Bench_02765.jpg/330px-Central_park_Bench_02765.jpg" alt="Central Park in 2011 during the winter.">
+
+    </body>
+</html>
